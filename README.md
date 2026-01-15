@@ -24,7 +24,7 @@ This repository contains the laboratory assignments for the **Artificial Intelli
 *  **Winning Condition:** The game ends when a player forms the sequence **'XOX'** (MAX wins) or **'OXO'** (MIN wins).
 * **AI Logic:**
     *  Uses the **Minimax algorithm** with recursion.
-    *  Does **not** use $\alpha$-$\beta$ pruning or heuristic evaluation functions.
+    *  Does **not** use $\alpha$ - $\beta$ pruning or heuristic evaluation functions.
 *  **Initial State:** To reduce state space, the game starts with one 'X' and one 'O' already placed in non-adjacent positions.
 
 ---
