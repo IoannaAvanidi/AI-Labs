@@ -2,7 +2,7 @@
 
 This repository contains the laboratory assignments for the **Artificial Intelligence**. The projects focus on search algorithms and game theory, implemented in **Java**.
 
-## 🤖 Exercise 1: Maze Search (20%)
+## 🤖 Exercise 1: Maze Search 
  Implementation of a search program to solve a robot navigation problem in an $N \times N$ grid.
 
 ### Key Features
@@ -16,7 +16,7 @@ This repository contains the laboratory assignments for the **Artificial Intelli
 
 ---
 
-## 🎮 Exercise 2: Game Construction (10%)
+## 🎮 Exercise 2: Game Construction 
  Development of an AI agent (MAX) that plays a custom adversarial game against a human user (MIN) on a $4 \times 3$ grid.
 
 ### Game Rules
